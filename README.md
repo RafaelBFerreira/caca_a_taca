@@ -1,2 +1,2 @@
 # Caça a Taça
-Jogo que desenvolci para a matéria jogos digitais
+Jogo que desenvolvi para a matéria jogos digitais
